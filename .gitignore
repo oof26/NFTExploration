@@ -1,4 +1,4 @@
 # ignore node modules
 /my-nft/node_modules
-
+/my-nft/artifacts
 /my-nft/.env
