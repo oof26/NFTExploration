@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Taco"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Taco"
+    } ],
+    "description" : "The world's most taco dog",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmYGfNsBdLnfM8Mob3CcPexRcYPyi1K5sLccUbxEZimEmg",
+    "name" : "TacoDog"
+}
